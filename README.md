@@ -21,9 +21,9 @@ npm run build --report
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
-assets======图片与样式
-components============存放页面与组件
-components/pages===========存放路由中配置的各个界面
+assets======图片与样式<br>
+components============存放页面与组件<br>
+components/pages===========存放路由中配置的各个界面<br>
 components/widget===========存放页面中重复的组件
 config===================存放配置项目全局信息的代码
 constants================存放各个url地址等常量
