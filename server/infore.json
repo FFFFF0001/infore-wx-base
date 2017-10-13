@@ -1,0 +1,14 @@
+[
+  {
+    "url": "/infore-pro-manager/app/login",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "name": "樱木花道",
+        "mobile": "193131"
+      }
+    }
+  }
+]
