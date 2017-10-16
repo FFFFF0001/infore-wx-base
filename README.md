@@ -31,17 +31,17 @@
 │   │   ├── setting.js                          // 项目配置
 │   ├── utils 				                    // 工具
 ├── project                                     // 项目文件
-│	├── assert                                  // 会被webpack处理的文件
+│  	├── assert                                  // 会被webpack处理的文件
 │   │   ├── css                                 // 样式
 │   │   ├── images 				                // 项目用到的
-│	├── module                                  // 我们建立的不同的项目
+│  	├── module                                  // 我们建立的不同的项目
 │   │   ├── ...                                 // 不同的module目录
-│	│   │   ├──api							    // 具体请求和URL
-│	│   │   ├──component			            // 页面：pages+widget
-│	│   │   ├──moduleName.html			        // module入口html文件
-│	│   │   ├──moduleName.js			        // module入口文件，加载各种公共组件
-│	│   │   ├──moduleName.vue			        // module页面入口文件
-│   ├── store                                   // vuex的状态管理
+│  	│   │   ├──api							    // 具体请求和URL
+│  	│   │   ├──component			            // 页面：pages+widget
+│  	│   │   ├──moduleName.html			        // module入口html文件
+│  	│   │   ├──moduleName.js			        // module入口文件，加载各种公共组件
+│  	│   │   ├──moduleName.vue			        // module页面入口文件
+│   ├── store                                   // vuex的状态管理
 │   │   ├── index.js                            // 引用vuex，创建store
 │   │   ├── modules                             // store模块
 │   │   ├── mutation-types.js                   // 定义常量muations名
