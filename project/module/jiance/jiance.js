@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import App from './pms.vue'
+import App from './jiance.vue'
 import router from '../../router/pms'
 /**
  * 额外配置

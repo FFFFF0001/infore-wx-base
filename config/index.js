@@ -1,6 +1,6 @@
 // see http://vuejs-templates.github.io/webpack for documentation.
 var path = require('path')
-
+var appName = require('../core/config/setting')
 module.exports = {
   build: {
     env: require('./prod.env'),
@@ -19,11 +19,10 @@ module.exports = {
     autoOpenBrowser: true,
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
-    proxyTable: {
-    },
+    proxyTable: {},
     cssSourceMap: false
   },
   module: {
-    name: 'pms'
+    name: appName.$ModuleName
   }
 }
