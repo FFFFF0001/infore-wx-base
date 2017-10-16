@@ -57,10 +57,3 @@
 * 更改core/config/setting.js里的```$ModuleName```，配置开发/打包的module，若配置为则```*```打出来全部module
 * dev: npm run dev
 * build: npm run build
-
-
-
-# License
-
-[GPL](https://github.com/bailicangdu/vue2-elm/blob/master/COPYING)
-
