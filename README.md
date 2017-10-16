@@ -41,7 +41,7 @@
 │	│   │   ├──moduleName.html			        // module入口html文件
 │	│   │   ├──moduleName.js			        // module入口文件，加载各种公共组件
 │	│   │   ├──moduleName.vue			        // module页面入口文件
-│   ├── store                                   // vuex的状态管理
+│   ├── store                                   // vuex的状态管理
 │   │   ├── index.js                            // 引用vuex，创建store
 │   │   ├── modules                             // store模块
 │   │   ├── mutation-types.js                   // 定义常量muations名
