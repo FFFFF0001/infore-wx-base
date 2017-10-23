@@ -4,7 +4,7 @@
  * @type {{$AppProjectName: string}}
  */
 let config = {
-  $ModuleName: '*'
+  $ModuleName: 'pms'
 }
 
 if (process.env.NODE_ENV === 'production') {

@@ -57,3 +57,15 @@
 * 更改core/config/setting.js里的```$ModuleName```，配置开发/打包的module，若配置为则```*```打出来全部module
 * dev: npm run dev
 * build: npm run build
+
+## 盈峰环境-微信Web学习相关资料
+
+#### *[Vue中文网](https://cn.vuejs.org/)*
+#### *[vue-router中文网](https://router.vuejs.org/zh-cn/)*
+#### *[vuex中文文档](https://vuex.vuejs.org/zh-cn/)*
+#### *[vux移动端UI组件库](https://vux.li/)*
+#### *[webpack中文文档](https://doc.webpack-china.org/)*
+
+> 该框架纯粹Vue开发，了解前端知识，看vue就行，不多赘述。
+
+
